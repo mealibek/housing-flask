@@ -1,0 +1,30 @@
+{
+  "feature_names": [
+    "area",
+    "bedrooms",
+    "bathrooms",
+    "stories",
+    "parking",
+    "mainroad",
+    "guestroom",
+    "basement",
+    "hotwaterheating",
+    "airconditioning",
+    "prefarea",
+    "furnishingstatus"
+  ],
+  "feature_order": [
+    "area",
+    "bedrooms",
+    "bathrooms",
+    "stories",
+    "parking",
+    "mainroad",
+    "guestroom",
+    "basement",
+    "hotwaterheating",
+    "airconditioning",
+    "prefarea",
+    "furnishingstatus"
+  ]
+}
