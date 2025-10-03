@@ -8,7 +8,6 @@ MODEL_DIR = os.path.join(BASE_DIR, "model")
 MODEL_PATH = os.path.join(MODEL_DIR, "housing_model.pkl")
 FEATURES_PATH = os.path.join(MODEL_DIR, "model_features.json")
 
-
 try:
     model = joblib.load(MODEL_PATH)
 except Exception as e:
